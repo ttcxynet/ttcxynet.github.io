@@ -1,1 +1,0 @@
-import{_ as e}from"./index.dfe6afd6.js";import{o as r,f as o}from"./vendor.3451bb13.js";const t={name:"error",data(){return{}},components:{},methods:{},mounted(){}};function n(_,a,s,d,c,p){return r(),o("div",null,"404")}var u=e(t,[["render",n]]);export{u as default};
